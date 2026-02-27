@@ -1,0 +1,14 @@
+10 	accept
+100 	accept
+101 	reject
+11 	reject
+110 	reject
+111 	reject
+01	accept
+011	reject
+010	accept
+lambda	reject
+111	accept
+10111	accept
+111111	reject
+1111111 accept
